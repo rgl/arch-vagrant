@@ -1,6 +1,6 @@
 This builds an up-to-date Arch Linux Vagrant Base Box.
 
-Currently this targets [Arch Linux 2022.04.05](https://archlinux.org/download/).
+Currently this targets [Arch Linux 2022.06.01](https://archlinux.org/download/).
 
 # Usage
 

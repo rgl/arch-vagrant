@@ -5,12 +5,12 @@ variable "disk_size" {
 
 variable "iso_url" {
   type    = string
-  default = "https://ftp.rnl.tecnico.ulisboa.pt/pub/archlinux/iso/2022.04.05/archlinux-2022.04.05-x86_64.iso"
+  default = "https://ftp.rnl.tecnico.ulisboa.pt/pub/archlinux/iso/2022.06.01/archlinux-2022.06.01-x86_64.iso"
 }
 
 variable "iso_checksum" {
   type    = string
-  default = "sha256:5934a1561f33a49574ba8bf6dbbdbd18c933470de4e2f7562bec06d24f73839b"
+  default = "sha256:6b3bfe8d4e0d0f82cc3322f9565e92b0c44f27105889a665a8626ce47fbf7ab8"
 }
 
 variable "vagrant_box" {
